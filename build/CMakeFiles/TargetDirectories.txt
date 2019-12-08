@@ -1,0 +1,6 @@
+/home/alessio/dev/github/build/CMakeFiles/edit_cache.dir
+/home/alessio/dev/github/build/CMakeFiles/Bin.dir
+/home/alessio/dev/github/build/CMakeFiles/WashingMachine.dir
+/home/alessio/dev/github/build/CMakeFiles/InsideDrum.dir
+/home/alessio/dev/github/build/CMakeFiles/rebuild_cache.dir
+/home/alessio/dev/github/build/CMakeFiles/Paddles.dir
